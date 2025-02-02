@@ -1,0 +1,58 @@
+{
+  "menus": [
+    {
+      "nombre": "Menú Clásico",
+      "entrante": {
+        "nombre": "Sopa de Cebolla",
+        "descripcion": "Sopa caliente de cebolla con queso gratinado y crutones.",
+        "precio": 4.50
+      },
+      "primer_plato": {
+        "nombre": "Pollo al Horno",
+        "descripcion": "Pollo asado con especias y guarnición de patatas.",
+        "precio": 10.00
+      },
+      "segundo_plato": {
+        "nombre": "Tarta de Queso",
+        "descripcion": "Tarta de queso cremosa con salsa de frutos rojos.",
+        "precio": 5.00
+      }
+    },
+    {
+      "nombre": "Menú Vegetariano",
+      "entrante": {
+        "nombre": "Ensalada Mediterránea",
+        "descripcion": "Lechuga, tomate, aceitunas, queso feta y aderezo de limón.",
+        "precio": 5.00
+      },
+      "primer_plato": {
+        "nombre": "Lasaña de Verduras",
+        "descripcion": "Capas de pasta con verduras asadas y salsa bechamel.",
+        "precio": 9.50
+      },
+      "segundo_plato": {
+        "nombre": "Mousse de Chocolate",
+        "descripcion": "Mousse de chocolate negro con virutas de cacao.",
+        "precio": 4.50
+      }
+    },
+    {
+      "nombre": "Menú Gourmet",
+      "entrante": {
+        "nombre": "Carpaccio de Ternera",
+        "descripcion": "Láminas finas de ternera con rúcula y lascas de parmesano.",
+        "precio": 7.00
+      },
+      "primer_plato": {
+        "nombre": "Risotto de Trufa",
+        "descripcion": "Arroz cremoso con trufa negra y queso parmesano.",
+        "precio": 12.00
+      },
+      "segundo_plato": {
+        "nombre": "Coulant de Chocolate",
+        "descripcion": "Bizcocho de chocolate con corazón fundido y helado de vainilla.",
+        "precio": 6.00
+      }
+    }
+  ]
+}
